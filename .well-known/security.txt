@@ -1,4 +1,16 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 Contact: mailto:security@upyou.it
 Expires: 2026-12-31T22:59:00.000Z
+Encryption: https://upyou.it/.well-known/B5260A1A408E12AE01C4F0D5A4C0B2CF233741DD.asc
+Encryption: https://upyou.it/.well-known/openpgpkey/hu/t5s8ztdbon8yzntexy6oz5y48etqsnbb (WKD)
 Preferred-Languages: it,en
-Canonical: https://www.upyou.it/.well-known/security.txt
+Canonical: https://upyou.it/.well-known/security.txt
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQS1JgoaQI4SrgHE8NWkwLLPIzdB3QUCZQRNOwAKCRCkwLLPIzdB
+3RwcAQD7t8APNXr5uKkretSzyGTlIzV8pBRwdAUbSTrRLLe1+gD/RwfTyg3KzyMq
+W/DGufq1TpVE6epGdWN41eYX+SC2NA0=
+=Zo+0
+-----END PGP SIGNATURE-----
