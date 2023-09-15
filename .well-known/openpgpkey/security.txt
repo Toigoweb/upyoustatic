@@ -1,0 +1,4 @@
+Contact: mailto:security@upyou.it
+Expires: 2026-12-31T22:59:00.000Z
+Preferred-Languages: it,en
+Canonical: https://www.upyou.it/.well-known/security.txt
